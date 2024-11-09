@@ -1,0 +1,8 @@
+LIBRARY DLLSearch
+
+EXPORTS 
+printElements @1
+ExtractTitles @2
+ExtractParagraphs @3
+ExtractBoldTexts @4
+
